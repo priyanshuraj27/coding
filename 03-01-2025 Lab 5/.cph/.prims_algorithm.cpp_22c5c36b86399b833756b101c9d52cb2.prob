@@ -1,0 +1,1 @@
+{"name":"Local: prims_algorithm","url":"d:\\Labs-IV\\DAA\\03-01-2025 Lab 6\\prims_algorithm.cpp","tests":[{"id":1740992116285,"input":"4\n0 2 0 1 2 0 3 2 0 3 0 3 1 2 3 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Labs-IV\\DAA\\03-01-2025 Lab 6\\prims_algorithm.cpp","group":"local","local":true}
